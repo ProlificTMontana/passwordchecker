@@ -1,4 +1,4 @@
-How the Program Works:
+# How the Program Works:
 
     Criteria Definition: The program checks for five criteria:
         Length of at least 8 characters.
@@ -16,6 +16,6 @@ How the Program Works:
 
     User Input: The user is prompted to enter a password, and the program evaluates and prints the strength of the password.
 
-Example Usage:
+# Example Usage:
 
 You can run the program by executing passwordchecker.py using Python 3, and it will prompt you to enter a password. Based on the input, it will provide feedback on the strength of the password.
