@@ -1,3 +1,9 @@
+## Password Checker Tool
+
+# Overview:
+
+The Password Checker is a Python-based security tool that evaluates the strength of user-provided passwords and checks whether they have appeared in known data breaches.
+
 # How the Program Works:
 
     Criteria Definition: The program checks for five criteria:
